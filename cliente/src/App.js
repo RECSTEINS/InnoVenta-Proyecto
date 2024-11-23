@@ -10,7 +10,7 @@ import Footer from "./Components/Home/Footer";
 import Resenas from "./Components/Home/Resenas";
 import Elite from "./Components/Home/Elite";
 import Formulario from "./Components/Home/Formulario";
-import { Form } from "react-bootstrap";
+import { Form } from "react-bootstrap"; 
 
 function App() {
   return (
